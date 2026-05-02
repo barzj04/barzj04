@@ -37,11 +37,11 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 Certificates & Badges
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+[![Credly Badge](https://img.shields.io/badge/Credly-Badges-orange?style=for-the-badge&logo=credly)](https://www.credly.com/)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+[![Badge](https://img.shields.io/badge/ML-Engineer-blue?style=for-the-badge)]((https://www.credly.com/badges/c9914e5e-efd7-4722-aa32-f629af2064bb/public_url))
 
 ---
 
