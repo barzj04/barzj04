@@ -39,9 +39,8 @@
 
 ## 🏆 Certificates & Badges
 
-[![Credly Badge](https://img.shields.io/badge/Credly-Badges-orange?style=for-the-badge&logo=credly)](https://www.credly.com/)
+<img width="220" height="220" alt="image" src="https://github.com/user-attachments/assets/5251c776-1304-4d9f-8b6d-ee85ed1fb6ce" />
 
-[![Badge](https://img.shields.io/badge/ML-Engineer-blue?style=for-the-badge)]((https://www.credly.com/badges/c9914e5e-efd7-4722-aa32-f629af2064bb/public_url))
 
 ---
 
