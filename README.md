@@ -39,8 +39,7 @@
 
 ## 🏆 Certificates & Badges
 
-<img width="220" height="220" alt="image" src="https://github.com/user-attachments/assets/5251c776-1304-4d9f-8b6d-ee85ed1fb6ce" />
-<img width="220" height="220" alt="image" src="https://github.com/user-attachments/assets/ac100542-2aad-4353-b932-e09df18fc489" />
+<img width="220" height="220" alt="image" src="https://github.com/user-attachments/assets/5251c776-1304-4d9f-8b6d-ee85ed1fb6ce" /> <img width="220" height="220" alt="image" src="https://github.com/user-attachments/assets/ac100542-2aad-4353-b932-e09df18fc489" />
 
 ---
 
