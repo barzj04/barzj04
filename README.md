@@ -9,7 +9,8 @@
 📫 Reach me: arleenchong@gmail.com  
 ⚡ Fun fact: I love music and adventure
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=barzj04&show_icons=true&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=barzj04&show_icons=true&theme=radical)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=barzj04&theme=radical)
 
 ![](https://komarev.com/ghpvc/?username=barzj04)
 
